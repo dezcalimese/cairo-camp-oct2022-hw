@@ -12,11 +12,11 @@
 ### Questions
 1. Working with the following set of integers S = {0,1,2,3,4,5,6,7,8}
 - What is 
-    a) 4 + 5
-    b) 3 * 5
+    - a) 4 + 5
+    - b) 3 * 5
 2. For S = {0,1,2,3,4,5,6,7,8}
-    a) Can we consider 'S' and the operation multiplication to be a group?
-    b) Can we consider 'S' and the operation division to be a group?
+    - a) Can we consider 'S' and the operation multiplication to be a group?
+    - b) Can we consider 'S' and the operation division to be a group?
 ### Answers
 1. a) 1 b) 6
-2. a) yes b) no 
+2. a) yes b) no
